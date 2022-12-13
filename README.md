@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali Bacaksiz
-- 👀 I’m interested in ML-DL-NLP-CV
-- 📫 How to reach me alybacaksiz@gmail.com
+- 👀 Interested in ML-DL-NLP-CV
+- 📫 Reach me via alybacaksiz@gmail.com
 
 <!---
 alybcksz/alybcksz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
